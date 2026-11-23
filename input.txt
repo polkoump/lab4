@@ -1,0 +1,13 @@
+6
+Mortgage Standard
+4500000.00 RUB 11.5
+Auto Loan Fast
+1200000.50 RUB 14.9
+Student Credit
+350000 RUB 5.5
+Business Start
+25000.75 USD 9.2
+Consumer Credit
+80000 EUR 12
+Home Repair
+150000.00 RUB 10.8
