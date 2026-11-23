@@ -1,0 +1,28 @@
+Source container (deque):
+Mortgage Standard, amount 4500000.00 RUB, rate 11.50% per year
+Auto Loan Fast, amount 1200000.50 RUB, rate 14.90% per year
+Student Credit, amount 350000.00 RUB, rate 5.50% per year
+Business Start, amount 25000.75 USD, rate 9.20% per year
+Consumer Credit, amount 80000.00 EUR, rate 12.00% per year
+Home Repair, amount 150000.00 RUB, rate 10.80% per year
+
+Container after sorting (deque, std::sort by amount):
+Business Start, amount 25000.75 USD, rate 9.20% per year
+Consumer Credit, amount 80000.00 EUR, rate 12.00% per year
+Home Repair, amount 150000.00 RUB, rate 10.80% per year
+Student Credit, amount 350000.00 RUB, rate 5.50% per year
+Auto Loan Fast, amount 1200000.50 RUB, rate 14.90% per year
+Mortgage Standard, amount 4500000.00 RUB, rate 11.50% per year
+
+Copy of the source container (list, algorithm copy):
+Mortgage Standard, amount 4500000.00 RUB, rate 11.50% per year
+Auto Loan Fast, amount 1200000.50 RUB, rate 14.90% per year
+Student Credit, amount 350000.00 RUB, rate 5.50% per year
+Business Start, amount 25000.75 USD, rate 9.20% per year
+Consumer Credit, amount 80000.00 EUR, rate 12.00% per year
+Home Repair, amount 150000.00 RUB, rate 10.80% per year
+
+Copy constructor:      Business Start, amount 25000.75 USD, rate 9.20% per year
+Copy assignment:       Business Start, amount 25000.75 USD, rate 9.20% per year
+Move constructor:      Business Start, amount 25000.75 USD, rate 9.20% per year
+Move assignment:       Business Start, amount 25000.75 USD, rate 9.20% per year
